@@ -16,7 +16,7 @@ void myFactors();
 int main()
 {
 
-  string answer;
+	string answer;
 	
 	while (answer != "no")
 	{
